@@ -48,7 +48,7 @@ This is not the norm, but it's how Firebase works in this instance. Later in the
 
 For our first POST (which is technically going to be a PUT) we will start in our view.
 
-In our view we have a form, that current has 3 input fields and a submit button.
+In our view we have a form, that currently has 3 input fields and a submit button.
 
 - Add ng-model to the input fields and make the model part of a newPost object:
   - ng-model="newPost.title" for example
